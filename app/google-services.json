@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124408802238",
+    "firebase_url": "https://assistant-lite-93b5b.firebaseio.com",
+    "project_id": "assistant-lite-93b5b",
+    "storage_bucket": "assistant-lite-93b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124408802238:android:5db1d05bdb9a886b3367ef",
+        "android_client_info": {
+          "package_name": "com.example.assistantlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124408802238-i86tvv1bkv0bvmc5i78aom0039rjvtlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assistantlite",
+            "certificate_hash": "f163c74ae3d6da0ab295495cb8f1207772a9587d"
+          }
+        },
+        {
+          "client_id": "124408802238-uuvei2cama8unae7eanfqattl3ot99ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQhiSmOqKh9iI8JjLuoSFb6_sdD5sr20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124408802238-uuvei2cama8unae7eanfqattl3ot99ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
